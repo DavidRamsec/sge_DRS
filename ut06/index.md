@@ -1,2 +1,3 @@
 - [Campos del modelo](./pr0601/PR0601.md)
 - [Campos relacionales](./pr0602/PR0602.md)
+- [Vistas de tipo lista](./pr0604/PR0604.md)
