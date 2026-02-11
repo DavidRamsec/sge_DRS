@@ -1,3 +1,4 @@
 - [Campos del modelo](./pr0601/PR0601.md)
 - [Campos relacionales](./pr0602/PR0602.md)
 - [Vistas de tipo lista](./pr0604/PR0604.md)
+- [Gestión de un taller mecánico](./pr0606/PR0606.md)
